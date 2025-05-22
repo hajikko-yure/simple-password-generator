@@ -29,3 +29,5 @@
 This software is provided "as is", without warranty of any kind, express or implied.  
 The developer is not responsible for any damage or issues caused by the use of this software.  
 Use at your own risk.
+
+またこのレポジトリは開発途中です。
