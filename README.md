@@ -17,3 +17,15 @@
 ## 🔐 出力
 
 共通パスワード + 安全なハッシュ値（決定論的に生成）
+
+---
+
+## ⚠️ 免責事項 / Disclaimer
+
+このソフトウェアは現状のままで提供されます。  
+開発者は、このソフトウェアの使用によって発生したいかなる損害や問題についても、一切の責任を負いません。  
+使用は自己責任でお願いします。
+
+This software is provided "as is", without warranty of any kind, express or implied.  
+The developer is not responsible for any damage or issues caused by the use of this software.  
+Use at your own risk.
